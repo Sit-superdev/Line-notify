@@ -3,7 +3,7 @@ function sendline($msg,$group){
 
 //Test System
   switch($group){    
-	case 'TES' : $token = 'mO4jmykQkwE2PqrWCNqXM2itNOVtLUihGqQ6uUmKOEm'; break;	
+	case 'TES' : $token = 'xxxxxxxxxxxx'; break;	
     default : $token='-'; break; 
 
   }  
